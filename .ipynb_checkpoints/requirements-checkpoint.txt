@@ -1,6 +1,0 @@
-pandas
-matplotlib
-seaborn
-requests
-python-dotenv
-notebook
